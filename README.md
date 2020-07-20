@@ -6,7 +6,7 @@ Get invovled by competing in the hackathon and your in with a chance of winning 
 
 # Competition 
 
-The Challenge!! We are challenging hackers & technologists to think of a new way to disrupt the logistics industry. The logsitics industry is currently utilizing legacy systems to run $100Billion plus industry and this is your chance to create a ripple in the machine.
+The Challenge!! We are challenging hackers & technologists to think of a new way to disrupt the logistics industry. The logsitics industry is currently utilizing legacy systems to run $100Billion+ industry and this is your chance to create a ripple in the machine.
 
 Guidelines - Create an app of any kind that utilizes the latest technolgy and has an innovative way of tracking packages and shipping! All the rules are below. 
 any questions can be asked through our discord channel https://discord.gg/AnzKWtd
