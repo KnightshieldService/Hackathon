@@ -2,6 +2,7 @@
 Welcome to the Knightshield Hackathon
 
 We're pushing to change how tech is used in the logistics space.
+Get invovled by competing in the hackathon and your in with a chance of winning a cash prize of £500!
 
 
 # Rules
