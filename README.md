@@ -4,7 +4,7 @@ Welcome to the Knightshield Hackathon
 
 # Rules
 
-Please go through the rules beforehand.
+Please go through the [rules](rules.md) beforehand.
 
 # Submissions 
 
