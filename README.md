@@ -1,6 +1,8 @@
 # Hackathon
 Welcome to the Knightshield Hackathon
 
+We're pushing to change how tech is used in the logistics space.
+
 
 # Rules
 
